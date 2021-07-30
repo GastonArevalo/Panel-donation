@@ -1,7 +1,5 @@
-Panel de donaciones para streamers
+##Panel de donaciones para streamers
 
-Streamers:
- twitch.tv/sashavanegas
- 
- 
- twitch.tv/suji_cloud
+###Streamers:
+ - https://twitch.tv/sashavanegas :green_heart:
+ - https://twitch.tv/suji_cloud :green_heart:
